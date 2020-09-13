@@ -1,7 +1,3 @@
-# Gowit Backend Assignment
-
-A key value application prepared for a job application.
-
 ## Prerequisities
 
 Before you begin, ensure you have met the following requirements:
